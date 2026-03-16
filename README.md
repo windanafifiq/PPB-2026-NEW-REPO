@@ -5,6 +5,6 @@ Repo untuk pengumpulan tugas mata kuliah Pemrograman Perangkat Bergerak
 
 ## DISUSUN OLEH:
 
-Winda Nafiqih Irawan
-5025231065
+Winda Nafiqih Irawan <br>
+5025231065 <br>
 Kelas Pemrograman Perangkat Bergerak (E)
